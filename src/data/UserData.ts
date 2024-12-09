@@ -1,0 +1,22 @@
+export const users = [
+	{ id: 1, firstName: "Mark", lastName: "Otto", username: "@mdo" },
+	{ id: 2, firstName: "Jacob", lastName: "Thornton", username: "@fat" },
+	{ id: 3, firstName: "Larry", lastName: "the Bird", username: "@twitter" },
+	{ id: 4, firstName: "John", lastName: "Doe", username: "@john" },
+	{ id: 5, firstName: "Jane", lastName: "Smith", username: "@jane" },
+	{ id: 6, firstName: "Bob", lastName: "Marley", username: "@bob" },
+	{ id: 7, firstName: "Alice", lastName: "Wonderland", username: "@alice" },
+	{ id: 8, firstName: "Charlie", lastName: "Brown", username: "@charlie" },
+	{ id: 9, firstName: "David", lastName: "Johnson", username: "@david" },
+	{ id: 10, firstName: "Eva", lastName: "Green", username: "@eva" },
+	{ id: 11, firstName: "Mark", lastName: "Otto", username: "@mdo" },
+	{ id: 12, firstName: "Jacob", lastName: "Thornton", username: "@fat" },
+	{ id: 13, firstName: "Larry", lastName: "the Bird", username: "@twitter" },
+	{ id: 14, firstName: "John", lastName: "Doe", username: "@john" },
+	{ id: 15, firstName: "Jane", lastName: "Smith", username: "@jane" },
+	{ id: 16, firstName: "Bob", lastName: "Marley", username: "@bob" },
+	{ id: 17, firstName: "Alice", lastName: "Wonderland", username: "@alice" },
+	{ id: 18, firstName: "Charlie", lastName: "Brown", username: "@charlie" },
+	{ id: 19, firstName: "David", lastName: "Johnson", username: "@david" },
+	{ id: 20, firstName: "Eva", lastName: "Green", username: "@eva" }
+];
